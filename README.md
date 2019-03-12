@@ -1,9 +1,10 @@
 # remove-extension
 
-Upload to your website.
+This .htaccess file make this amazing thing!
 
-/file.php -> /file
+FROM              TO
+file.php        /file
+index.html      /index
+register.php    /register
 
-/demo.html -> /demo
-
-======================
+============================================
